@@ -6,7 +6,7 @@ module.exports = {
         value: 'any[] | any',
       },
       {
-        name: 'click:location',
+        name: 'click:${location}',
         value: 'void',
       },
     ],
